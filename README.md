@@ -1,4 +1,4 @@
-# Claude Skills untuk Google Apps Script
+# GAS
 
 Kumpulan skill Claude untuk belajar dan mengembangkan Google Apps Script, HTML, CSS, dan JavaScript.
 
@@ -38,6 +38,3 @@ Dua skill, `apps-script-coding-standards` dan `apps-script-security-review`, dia
 ## Catatan versi
 
 Skill ini adalah salinan dari ECC pada saat dibuat. Perubahan di repositori asal tidak otomatis masuk. Untuk memperbaruinya, salin ulang dari sumbernya dan buat ulang ZIP-nya.
-
-# GAS
-Skill Claude untuk belajar dan mengembangkan Google Apps Script, HTML, CSS, dan JavaScript: tutor bertahap, konvensi kode, dan checklist keamanan.
