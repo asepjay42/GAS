@@ -33,7 +33,7 @@ Salin folder skill ke `.claude/skills/` di dalam proyek untuk hanya proyek itu, 
 
 Dua skill, `apps-script-coding-standards` dan `apps-script-security-review`, diadaptasi dari [affaan-m/ECC](https://github.com/affaan-m/ECC), yang berlisensi MIT. Salinan lisensi asli ada di [`LICENSE-ECC`](LICENSE-ECC).
 
-[Pilih lisensi untuk konten buatanmu sendiri, misalnya MIT, dan tambahkan file `LICENSE`.]
+Bagian buatanku (README.md, tutor-apps-script/) berlisensi MIT, lihat [`LICENSE`](LICENSE).
 
 ## Catatan versi
 
